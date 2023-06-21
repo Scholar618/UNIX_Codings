@@ -1,4 +1,4 @@
-// 互斥锁的使用
+// 读写锁的使用
 
 #include <stdio.h>
 #include <unistd.h>
